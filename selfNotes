@@ -1,0 +1,15 @@
+First I merged both the dataframes based on movie id because i like to deal with only df at a time 
+
+Now list the columns which you want to keep
+
+1. genres  --- for recommndation
+2. id --- for id
+3. keywords --- for recomnndation 
+4.  title --- for recommndation, alert - keep title only not original title because original title might be in regional languages
+5. overview -- for recomnndation 
+6. cast -- for recommendation
+7. crew -- for recommndation
+
+
+
+overview mein se stop words hata de
